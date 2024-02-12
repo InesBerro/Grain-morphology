@@ -22,4 +22,5 @@ Grain traits were obtained in pixels and scaled to metric units.
 
 ### Output
 Two CSV files are saved in the working directory: one with grains attributes by grain and the other with the number of grains the trait image averages.
+
 `Grain_Analyzer.m` allows printing a figure with the binary image and individual grain length and width colored.
