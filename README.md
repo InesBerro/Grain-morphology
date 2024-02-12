@@ -5,7 +5,7 @@
 This repository contains all the functions to analyze grain images and extract grain morphology traits in MATLAB software.
 The Grain_function folder contains three functions for analyzing panicle images.
 - `Grain_Analyzer.m`: to execute the entire pipeline.
-- `Image_cropped.m`: crop the image and keep the panicle part, removing QR-code and scale reference.
+- `Image_cropped.m`: crop the image and keep the grains, removing QR-code and scale reference.
 - `make_binary.m`: to transform the image into a binary matrix (0 and 1).
 - `grain_class.m`: to extract the grain attributes.
 
